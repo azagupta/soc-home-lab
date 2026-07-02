@@ -1,5 +1,3 @@
-markdown# SOC Home Lab: Sysmon → Wazuh → TheHive
-
 A self-built detection and incident response pipeline, deployed and debugged end to end.
 
 ## Overview
@@ -33,7 +31,8 @@ Rather than only simulating attacks internally, the Wazuh server was exposed on 
 ## Screenshots
 
 ### 1. Environment setup
-![SHA256 verification](screenshots/01-sha256-verify.png)
+<img width="1920" height="1080" alt="SHA256SUMS" src="https://github.com/user-attachments/assets/368c891e-7da8-4223-9ebe-d064ac186d92" />
+
 ![Sysmon config](screenshots/02-sysmon-config.png)
 ![Sysmon installed](screenshots/03-sysmon-install.png)
 ![Sysmon events](screenshots/04-sysmon-events.png)
